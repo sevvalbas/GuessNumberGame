@@ -1,7 +1,4 @@
-# GuessNumberGame
-
-[GitHub Repository](https://github.com/sevvalbas/GuessNumberGame)
-
+# GuessNumberGame 🔢​
 ## Overview
 GuessNumberGame is a JavaFX-based desktop game where users try to guess a randomly generated number between 0 and 100. The game features user authentication, high score tracking, hints, and a visually engaging interface.
 
@@ -23,9 +20,10 @@ GuessNumberGame is a JavaFX-based desktop game where users try to guess a random
 
 ### Installation
 1. Clone the repository:
-   ```sh
-git clone https://github.com/sevvalbas/GuessNumberGame.git
-   ```
+      ```bash
+   git clone https://github.com/sevvalbas/GuessNumberGame.git
+
+
 2. Open the project in your IDE.
 
 ### Running the Game
@@ -45,4 +43,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-> Project by [sevvalbas](https://github.com/sevvalbas/GuessNumberGame) 
+> Project by [Şevval Baş](https://github.com/sevvalbas) 
